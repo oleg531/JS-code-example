@@ -1,0 +1,19 @@
+.winner-info{
+    margin-top: 10px;
+}
+.matches {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+
+.match{
+    width: 10px;
+    height: 10px;
+    border: 1px solid black;    
+    margin: 5px 5px 5px 0;
+}
+
+.match.compleated{
+    background-color: black;
+}
